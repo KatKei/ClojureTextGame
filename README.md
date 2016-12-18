@@ -2,6 +2,8 @@
 
 Katherine Chung, kchung13
 
+All the edited code is in src/adventure/core.clj
+
 1. To go to different locations, enter "north," "south," "eat," or "west".
   -going somewhere requires 1 energy
 2. To check inventory, enter "bag"
